@@ -143,12 +143,6 @@ desired effect
               </div>
               <div class="modal-body">
                   <form method="POST">
-                <div class="input-group date">
-                  <div class="input-group-addon">
-                    <i class="fa fa-calendar"></i>
-                  </div>
-                  <input type="text" class="form-control pull-right" id="datepicker">
-                </div>
                   <input class="form-control" type="text" name="nm"  placeholder="nom"><br><br>
                   <input class="form-control" type="text" name="prm"  placeholder="prenom"><br><br>
                   <select class="form-control" name="spt">

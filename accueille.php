@@ -69,26 +69,26 @@ session_start();
   <!-- /.content-wrapper -->
   <section class="content">
         <div class="callout callout-info">
-          <h4>Medecin!</h4>
+          <h4><strong>Medecin</strong></h4>
 
-          <p>Add the layout-top-nav class to the body tag to get this layout. This feature can also be used with a
-            sidebar! So use this class if you want to remove the custom dropdown menus from the navbar and use regular
-            links instead.</p>
+          <p>Dans le partie <b>medecin</b> vous avez la possiblite d'ajouter des medecins insi que de voir les medecins qui se trouve 
+           dans ton service insi que leur que specialite 
+          .</p>
         </div>
         <div class="callout callout-info">
-          <h4>Specialite</h4>
+          <h4><strong>Specialite</strong></h4>
 
-          <p>Add the layout-top-nav class to the body tag to get this layout. This feature can also be used with a
-            sidebar! So use this class if you want to remove the custom dropdown menus from the navbar and use regular
-            links instead.</p>
+          <p>Dans le partie <b>specialite</b> vous avez la possiblite d'ajouter des specialites insi que de voir les specialites qui se trouve 
+           dans ton service
+          .</p>
         </div>
       </div>
       <div class="callout callout-info">
-          <h4>Rendez-vous</h4>
+          <h4><strong>Rendez-vous</strong></h4>
 
-          <p>Add the layout-top-nav class to the body tag to get this layout. This feature can also be used with a
-            sidebar! So use this class if you want to remove the custom dropdown menus from the navbar and use regular
-            links instead.</p>
+          <p>Dans le partie <b>rendez-vous</b> vous avez la possiblite d'ajouter des rendez-vous insi que de voir la listes de touts les rendez-vous qui se trouve 
+           dans ton service
+          .</p>
         </div>    <!-- /.modal-dialog -->
         </div>
         <!-- /.modal -->
